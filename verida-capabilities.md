@@ -1,0 +1,11 @@
+---
+hidden: true
+---
+
+# Verida Capabilities
+
+## Capabilities[​](https://developers.verida.network/docs/extras/capabilities#capabilities) <a href="#capabilities" id="capabilities"></a>
+
+The major capabilities of the Verida developer platform are as follows:
+
+<table><thead><tr><th>Capability</th><th width="158">Released</th><th>Links</th></tr></thead><tbody><tr><td>Decentralized Identity</td><td>✅</td><td><ul><li><a href="https://explorer.verida.network">Verida Network and Identity Explorer</a></li><li><a href="protocol/concepts/accounts-and-identity.md">Documentation: Accounts and Identity</a></li></ul></td></tr><tr><td>SDK Auth (Verida Connect)</td><td>✅</td><td><ul><li><a href="protocol/verida-connect-sdk/">Documentation: How to use the Verida Connect SDK</a></li></ul></td></tr><tr><td>User APIs</td><td>✅</td><td><ul><li><a href="apis/private-data-apis.md">User Data APIs</a></li></ul></td></tr><tr><td>Secure Data Storage</td><td>✅</td><td><ul><li><a href="protocol/client-sdk/data.md">Documentation: Data</a></li><li><a href="protocol/client-sdk/queries.md">Documentation: Queries</a></li></ul></td></tr><tr><td>Secure Data Sharing</td><td>✅</td><td><ul><li><a href="https://vault-examples.demos.verida.io/">Demo: Vault Example</a></li></ul></td></tr><tr><td>Confidential Compute</td><td>Alpha release</td><td><ul><li><a href="https://news.verida.network/verida-technical-litepaper-self-sovereign-confidential-compute-network-to-secure-private-ai-part-fb57146c3a02">Confidential Compute Litepaper</a></li></ul></td></tr><tr><td>Decentralized Messaging</td><td>✅</td><td><ul><li><a href="https://vault-examples.demos.verida.io/">Demo: Vault Example</a></li></ul></td></tr><tr><td>LLM Access to User Data</td><td>Alpha release</td><td><ul><li><a href="apis/private-data-apis.md">User Data APIs / LLM Endpoints</a></li></ul></td></tr><tr><td>Blockchain Data Bridge</td><td>✅</td><td><ul><li><a href="private-data-bridge/blockchain-bridge.md">Blockchain Data Bridge</a></li></ul></td></tr><tr><td>Verifiable Credentials</td><td>✅</td><td><ul><li><a href="extensions/credentials/verifiable-credentials-developer-sdk.md">Documentation: Verifiable Credentials</a></li><li><a href="https://vault-examples.demos.verida.io/">Demo: Vault Example</a></li></ul></td></tr></tbody></table>
