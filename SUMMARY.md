@@ -12,6 +12,21 @@
 * [Migrate to Myrtle](migrate-to-myrtle.md)
 * [Glossary](glossary.md)
 
+## Private Data Bridge
+
+* [Introduction](private-data-bridge/introduction.md)
+* [Verida Vault](private-data-bridge/verida-vault.md)
+* [Data Connections](private-data-bridge/data-connections.md)
+* [Data Bridge Server](private-data-bridge/data-bridge-server.md)
+* [Blockchain Bridge](private-data-bridge/blockchain-bridge.md)
+
+## APIs
+
+* [Introduction](apis/introduction.md)
+* [Building with APIs](apis/building-with-apis.md)
+* [Private Data APIs](apis/private-data-apis.md)
+* [Privacy & Security](apis/privacy-and-security.md)
+
 ## Protocol
 
 * [Core concepts](protocol/concepts/README.md)
@@ -52,21 +67,6 @@
     * [FAQ](protocol/run-a-node/database-node/faq.md)
   * [Compute Node](protocol/run-a-node/compute-node.md)
 * [Verida Networks](protocol/verida-networks.md)
-
-## APIs
-
-* [Introduction](apis/introduction.md)
-* [Building with APIs](apis/building-with-apis.md)
-* [Private Data APIs](apis/private-data-apis.md)
-* [Privacy & Security](apis/privacy-and-security.md)
-
-## Private Data Bridge
-
-* [Introduction](private-data-bridge/introduction.md)
-* [Verida Vault](private-data-bridge/verida-vault.md)
-* [Data Connections](private-data-bridge/data-connections.md)
-* [Data Bridge Server](private-data-bridge/data-bridge-server.md)
-* [Blockchain Bridge](private-data-bridge/blockchain-bridge.md)
 
 ## Extensions
 
