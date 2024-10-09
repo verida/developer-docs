@@ -21,9 +21,11 @@ layout:
 
 **Verida is the confidential database storage and compute layer for the self-sovereign data economy.**
 
-We believe it’s a fundamental human right that individuals have ownership and control over their data. We believe everyone has a right to control their identity through decentralization, giving netizens control and self-sovereignty over how they interact with the digital world.
+Users can extract personal data from centralized platforms like Google, Telegram, Slack, and LinkedIn, using the Verida Private Data Bridge, and store it in user-controlled encrypted vaults on the Verida network.&#x20;
 
-The Verida Network is a multi-chain protocol for interoperable confidential database storage, confidential compute and messaging network built on decentralized identity standards where data is owned and controlled by users.
+The network offers secure, off-chain encrypted storage for users to own and control their data, enabling safe, hyper-personalized AI experiences with this contextual data.&#x20;
+
+Verida’s confidential compute network ensures that this encrypted data integrates with AI models while preserving privacy and protecting user data from model owners.
 
 Users can install the [verida-vault.md](private-data-bridge/verida-vault.md "mention") (and coming soon, sign up to the [verida-vault.md](private-data-bridge/verida-vault.md "mention")) to create a Verida account and manage their private data.
 
