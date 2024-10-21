@@ -17,6 +17,7 @@
 * [Introduction](private-data-bridge/introduction.md)
 * [Verida Vault](private-data-bridge/verida-vault.md)
 * [Data Connections](private-data-bridge/data-connections.md)
+* [Build a Connector](private-data-bridge/build-a-connector.md)
 * [Data Bridge Server](private-data-bridge/data-bridge-server.md)
 * [Blockchain Bridge](private-data-bridge/blockchain-bridge.md)
 

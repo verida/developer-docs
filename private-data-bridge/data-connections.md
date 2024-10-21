@@ -16,18 +16,18 @@ Handlers have built-in options specific to their functionality. For example; The
 Handler options are currently implemented in the backend and will be made available in the user interface soon.
 {% endhint %}
 
-### Fetching Historical Data
+### Connectors Roadmap
 
-The default setting for all handlers is to fetch data up to 3 months old. In the future users will be able to customize this to increase the historical data to fetch. This will obviously increase the amount of data storage and memory usage for that user's data.
+You can view a list of completed, in progress and planned connectors here:
+
+[https://roadmap.verida.ai/](https://roadmap.verida.ai/)
 
 ### Request a Connector
 
-You can request a new connector by [adding an issue to the project](https://github.com/verida/data-connector-server/issues) in Github. Make sure you add a `new-connector` label to the issue.
+You can request a new connector via our roadmap here:
 
-### Build a Connector
+[https://roadmap.verida.ai/data-connectors](https://roadmap.verida.ai/data-connectors)
 
-You can contribute to the project by building new connectors. See [Contributing.MD](https://github.com/verida/data-connector-server/blob/main/docs/Contributing.md) for more details.
+### Fetching Historical Data
 
-{% hint style="success" %}
-We will soon be offering grants for developers that build new connectors
-{% endhint %}
+The default setting for all handlers is to fetch data up to 3 months old. In the future users will be able to customize this to increase the historical data to fetch. This will obviously increase the amount of data storage and memory usage for that user's data.
