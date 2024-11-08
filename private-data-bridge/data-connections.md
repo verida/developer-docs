@@ -8,7 +8,7 @@ The Verida Data Connection framework source code is open source and [available o
 
 ### Connection Handlers
 
-Connections (ie: Google) have multiple handlers (ie: Gmail, Calendar etc.) that process different types of data available for a given connection. These handlers typically require specific permission to be gratned when authorizing the connection. For example; A user will need to permit the Data Bridge access to the "Calendar" otherwise that data won't syncronize.
+Connections (ie: Google) have multiple handlers (ie: Gmail, Calendar etc.) that process different types of data available for a given connection. These handlers typically require specific permission to be granted when authorizing the connection. For example; A user will need to permit the Data Bridge access to the "Calendar" otherwise that data won't synchronize.
 
 Handlers have built-in options specific to their functionality. For example; The Telegram handler has an option to only sync groups with less than 50 participants.
 
