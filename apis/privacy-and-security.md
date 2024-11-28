@@ -49,9 +49,15 @@ Important privacy notice for the alpha release
 
 The large language models (LLM) currently used in the Verida APIs are _not_ currently running in a Verida Confidential Compute secure enclave. Secure enclaves do not currently support GPU access which is necessary for performant LLM operations.
 
-The alpha release provides the option of using [Amazon Web Services Bedrock](https://aws.amazon.com/bedrock/), [Groq](https://groq.com/) or your own LLM.
+The alpha release provides the option of using [Amazon Web Services Bedrock](https://aws.amazon.com/bedrock/) or your own LLM.
 
-This is a temporary solution as we are collaborating with partners to enable LLM's to run efficiently and cost effectively within secure enclaves. While this is not perfect, we believe the [AWS Bedrock privacy architecture and security model](https://aws.amazon.com/bedrock/security-compliance/) and the [Groq privacy policy](https://groq.com/privacy-policy/) provide adequate protections for this alpha release, while those with highly sensitive requirements can still provide their own custom LLM.
+This is a temporary solution as we are collaborating with partners to enable LLM's to run efficiently and cost effectively within secure enclaves. While this is not perfect, we believe the [AWS Bedrock privacy architecture and security model](https://aws.amazon.com/bedrock/security-compliance/) provides adequate protections for this alpha release, while those with highly sensitive requirements can still provide their own custom LLM.
+
+From the AWS documentation:
+
+> Amazon Bedrock doesn't store or log your prompts and completions. Amazon Bedrock doesn't use your prompts and completions to train any AWS models and doesn't distribute them to third parties.
+>
+> AWS complies with ISO 27018, a code of practice that focuses on protection of personal data in the cloud. It extends ISO information security standard 27001 to cover the regulatory requirements for the protection of personally identifiable information (PII) or personal data for the public cloud computing environment and specifies implementation guidance based on ISO 27002 controls that is applicable to PII processed by public cloud service providers. For more information, or to view the AWS ISO 27018 Certification, see the [AWS ISO 27018 Compliance](https://aws.amazon.com/compliance/iso-27018-faqs/) webpage
 
 ## Custom LLM
 
