@@ -5,28 +5,11 @@
 * [Start Building](start-building.md)
 * [Verida Wallet](verida-wallet.md)
 * [Verida Capabilities](verida-capabilities.md)
-* [AI Use Cases](ai-use-cases.md)
 * [Demos](demos.md)
 * [Storing Web3 Data](storing-web3-data.md)
 * [Whitepapers](whitepapers.md)
 * [Migrate to Myrtle](migrate-to-myrtle.md)
 * [Glossary](glossary.md)
-
-## Private Data Bridge
-
-* [Introduction](private-data-bridge/introduction.md)
-* [Verida Vault](private-data-bridge/verida-vault.md)
-* [Data Connections](private-data-bridge/data-connections.md)
-* [Build a Connector](private-data-bridge/build-a-connector.md)
-* [Data Bridge Server](private-data-bridge/data-bridge-server.md)
-* [Blockchain Bridge](private-data-bridge/blockchain-bridge.md)
-
-## APIs
-
-* [Introduction](apis/introduction.md)
-* [Building with APIs](apis/building-with-apis.md)
-* [Private Data APIs](apis/private-data-apis.md)
-* [Privacy & Security](apis/privacy-and-security.md)
 
 ## Protocol
 
@@ -61,6 +44,7 @@
   * [WebUser](protocol/verida-connect-sdk/webuser.md)
   * [WalletConnect Support](protocol/verida-connect-sdk/walletconnect-support.md)
   * [Authentication Server](protocol/verida-connect-sdk/authentication-server.md)
+* [Blockchain Bridge](protocol/blockchain-bridge.md)
 * [Run a Node](protocol/run-a-node/README.md)
   * [Database Node](protocol/run-a-node/database-node/README.md)
     * [Setup](protocol/run-a-node/database-node/setup.md)
@@ -79,7 +63,3 @@
   * [Reclaim Protocol credential](extensions/credentials/reclaim-protocol-credential.md)
 * [Verida URIs](extensions/verida-uris.md)
 * [Vue Components](extensions/vue-components.md)
-
-## Tutorials
-
-* [Coming Soon](tutorials/coming-soon.md)

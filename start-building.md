@@ -27,7 +27,7 @@ A set of easy to use API's running on the Verida Confidential Compute infrastruc
 
 These API's provide decrypted, fast access to user data while also providing other developer services such as AI prompt endpoints connected to user data and keyword search across datasets. We intend to extend the API services in the future to include other useful endpoints (ie: Vector databases)
 
-Your application redirects a user to authorize access for your application with the [verida-vault.md](private-data-bridge/verida-vault.md "mention")via OAuth. Once authorized, you obtain access and refresh tokens that can be used to access user data from confidential compute nodes on the Verida network.
+Your application redirects a user to authorize access for your application with the [Broken link](broken-reference "mention")via OAuth. Once authorized, you obtain access and refresh tokens that can be used to access user data from confidential compute nodes on the Verida network.
 
 [Learn more](broken-reference)
 
